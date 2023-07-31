@@ -3,6 +3,9 @@
 
 Hey there! I'm Apurva Shrivastava,
 
+Data Science Resume :- [Click Here](https://drive.google.com/file/d/1ObXbj01WYT2PY9ZK6xYCJ-P0IElauIar/view?usp=sharing)
+Data Analyst Resume :- [Click Here](https://drive.google.com/file/d/1HejFjZf1X9k4-8JHmi3k979gy7gS5Zxl/view?usp=sharing) 
+
 
 A passionate and curious Data Science intern at Almabetter.
 
